@@ -1,0 +1,25 @@
+.headers{
+  margin-top: 100px;
+  line-height: 35px;
+  margin-bottom: 15px;
+}
+
+.header{
+  font-family: Poppins;
+  font-weight: 200;
+  color: hsl(234, 12%, 34%);
+}
+
+.header2{
+  font-family: Poppins;
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+.paragraph{
+  margin-bottom: 40px;
+  font-family: Poppins;
+  font-weight: 200;
+  font-size: 15px;
+  color: hsl(229, 6%, 66%);
+}
